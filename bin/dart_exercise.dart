@@ -1,3 +1,5 @@
+//Từ 1 đến 1000 in ra các số chẵn mà tổng các số đó không lớn hơn 400.
+
 void main() {
   int i;
   var tong = 0;

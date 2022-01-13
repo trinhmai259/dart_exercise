@@ -1,3 +1,4 @@
+//Từ. 1 đến 10000, Viết chương trình đếm xem có bao nhiêu chữ số chia hết cho 3 , bao nhiêu số chia hết cho 5
 void main() {
   int i;
   var count3 = 0;
